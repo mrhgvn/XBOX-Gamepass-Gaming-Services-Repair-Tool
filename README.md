@@ -8,7 +8,4 @@ game pass error code 0xc0ea0001<br>
 game pass error code 0x87e0000d<br>
 game pass error code 0x87e00196<br>
 game pass error code 0x80073d05<b/><br>
-<br><br>
-
-  [![Watch the video!](https://img.youtube.com/vi/eKiNVPSBOnQ/0.jpg)](https://www.youtube.com/watch?v=eKiNVPSBOnQ)
 
